@@ -1,4 +1,4 @@
-### Welcome, silly 👋
+### Hello, silly 👋
 
 🌱 I have a pasion for crafting quality software and designing efficient architectures. I believe in the importance of readable codebases and the power of data, analytics, logs, and metrics to drive decisions. 
 
